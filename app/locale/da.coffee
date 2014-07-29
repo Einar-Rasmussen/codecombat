@@ -529,5 +529,5 @@ module.exports = nativeDescription: "dansk", englishDescription: "Danish", trans
 #    tutorial_not_sure: "Not sure what's going on?"
 #    tutorial_play_first: "Play the Tutorial first."
 #    simple_ai: "Simple AI"
-#    warmup: "Warmup"
+#    warmup: "Opvarmning"
 #    vs: "VS"
